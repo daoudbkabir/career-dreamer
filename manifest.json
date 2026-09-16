@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "od-design-system-project/v1",
+  "id": "career-dreamer",
+  "name": "Career Dreamer",
+  "category": "Education & Career Development",
+  "description": "A calm, evidence-aware Youth Academy design system for career exploration and preparation.",
+  "source": {
+    "type": "local",
+    "origin": "Career Dreamer Phase 1 product foundation"
+  },
+  "files": {
+    "design": "DESIGN.md",
+    "tokens": "tokens.css"
+  }
+}
